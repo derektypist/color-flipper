@@ -33,7 +33,7 @@ Ensure that all user stories have been met.
 
 ## Deployment
 
-This project is deployed on [GitHub Pages](https://derektypist.github.io/color-flipper) at the main branch.
+This project is deployed on [GitHub Pages](https://derektypist.github.io/color-flipper/) at the main branch.
 
 ## Credits
 
