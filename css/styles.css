@@ -44,9 +44,46 @@ nav a {
     font-weight: bold;
     font-size: 1rem;
     color: hsl(205, 86%, 17%);
+    margin-right: 0.1rem;
+    letter-spacing: 0.1rem;
 }
 
 nav a:hover {
     color: hsl(205, 78%, 60%);
 }
 
+/* Container */
+main {
+    min-height: 100vh;
+    place-items: center;
+    display: grid;
+}
+
+.container {
+    text-align: center;
+}
+
+.container h2 {
+    color: white;
+    background: black;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    margin-bottom: 2.5rem;
+}
+
+.color {
+    color: hsl(205, 78%, 60%);
+}
+
+.btn-hero {
+    font-family: inherit;
+    background: transparent;
+    color: black;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.btn-hero:hover {
+    background: black;
+    color: white;
+}
