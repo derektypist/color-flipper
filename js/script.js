@@ -1,6 +1,6 @@
 // Set Up colors Array
 
-const colors = ["green", "red", "yellow", "pink", "rgba(133,122,200,0.1)", "#f15025"];
+const colors = ["green", "red", "yellow", "pink", "rgba(133,122,200,0.9)", "#f15025"];
 
 const btn = document.getElementById('btn');
 const color = document.querySelector('.color');
