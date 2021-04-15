@@ -20,6 +20,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    max-width: 620px;
 }
 
 .nav-center h4 {
