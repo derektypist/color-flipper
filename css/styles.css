@@ -28,7 +28,6 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    max-width: 620px;
 }
 
 .nav-center h4 {
@@ -81,6 +80,7 @@ main {
     color: black;
     border: 2px solid black;
     cursor: pointer;
+    display: inline-block;
 }
 
 .btn-hero:hover {
